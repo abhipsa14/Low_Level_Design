@@ -1,0 +1,19 @@
+UML Diagrams
+UML(Unified Modeling Language) is a standard way to visually design and represent software systems using diagrams.
+
+The main purpose is to have a common visual language that shows how classes, objects, relationships and interactions work in a system.
+
+This makes it easier for developers and teams to understand, discuss, and plan the system before writing the actual code.
+ - Visualization
+ - Documentation
+ - Communication
+ - Standarization
+
+Basic elements:
+1. Class
+2. Interface
+3. objects
+4. Association
+5. Inheritance
+6. Composition
+7. Aggregation
